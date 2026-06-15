@@ -19,7 +19,7 @@
   <!-- 🎯 ANIMATED HEADER                                                          -->
   <!-- ═══════════════════════════════════════════════════════════════════════════ -->
   
-  <img src="./assets/header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
+  <img src="header-animation.svg" alt="Redoyanul Haque - AI Developer" width="100%"/>
   
   <br/>
   
@@ -52,12 +52,12 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="./assets/terminal-intro.svg" alt="Terminal Introduction" width="650"/>
+  <img src="terminal-intro.svg" alt="Terminal Introduction" width="650"/>
 </div>
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -65,7 +65,7 @@
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-about.svg" width="180"/>
+<img src=".section-about.svg" width="180"/>
 
 <br/><br/>
 
@@ -122,7 +122,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -130,7 +130,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- 🏆 ACHIEVEMENTS SECTION                                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-trophy.svg" width="200"/>
+<img src="section-trophy.svg" width="200"/>
 
 <br/><br/>
 
@@ -145,7 +145,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -153,7 +153,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- 📊 GITHUB ANALYTICS                                                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-stats.svg" width="220"/>
+<img src="section-stats.svg" width="220"/>
 
 <br/><br/>
 
@@ -191,7 +191,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -199,7 +199,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- 🎮 CONTRIBUTION SHOWCASE                                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-game.svg" width="280"/>
+<img src="section-game.svg" width="280"/>
 
 <br/><br/>
 
@@ -220,7 +220,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -228,7 +228,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- ⚡ TECH STACK                                                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-tech.svg" width="180"/>
+<img src="section-tech.svg" width="180"/>
 
 <br/><br/>
 
@@ -296,7 +296,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -326,7 +326,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -334,7 +334,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- 🌐 CONNECT WITH ME                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="./assets/section-connect.svg" width="160"/>
+<img src="section-connect.svg" width="160"/>
 
 <br/><br/>
 
@@ -368,7 +368,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <br/>
 
-<img src="./assets/divider.svg" width="100%"/>
+<img src="divider.svg" width="100%"/>
 
 <br/>
 
@@ -396,7 +396,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 
 <div align="center">
   
-  <img src="./assets/footer.svg" width="100%"/>
+  <img src="footer.svg" width="100%"/>
   
   <br/>
   
