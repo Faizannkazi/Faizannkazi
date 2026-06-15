@@ -65,7 +65,7 @@
 <!-- 👤 ABOUT ME SECTION                                                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src=".section-about.svg" width="180"/>
+<img src="section-about.svg" width="180"/>
 
 <br/><br/>
 
@@ -165,7 +165,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
   </a>
   &nbsp;
   <a href="https://github.com/red1-for-hek">
-    <img height="195em" src="./assets/streak.svg" alt="GitHub Streak"/>
+    <img height="195em" src="streak.svg" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
@@ -207,9 +207,9 @@ life_philosophy: "Code is poetry. AI is the canvas."
   
   <!-- Pac-Man Contribution Graph -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="./assets/pacman-contribution-graph.svg"/>
-    <img alt="Pac-Man eating contributions" src="./assets/pacman-contribution-graph-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg"/>
+    <img alt="Pac-Man eating contributions" src="pacman-contribution-graph-dark.svg" width="100%"/>
   </picture>
   
   <br/>
