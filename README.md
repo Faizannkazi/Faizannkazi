@@ -383,10 +383,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
   
   <br/>
   
-  <!-- ☕ BUY ME A COFFEE -->
-  <a href="https://buymeacoffee.com/redoyanul1y" target="_blank">
-    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
+
   
   <br/><br/>
   
