@@ -1,14 +1,14 @@
 <!-- 
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██████╗ ███████╗██████╗  ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗██╗   ██╗██╗   ║
-║   ██╔══██╗██╔════╝██╔══██╗██╔═══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║██║   ██║██║   ║
-║   ██████╔╝█████╗  ██║  ██║██║   ██║ ╚████╔╝ ███████║██╔██╗ ██║██║   ██║██║   ║
-║   ██╔══██╗██╔══╝  ██║  ██║██║   ██║  ╚██╔╝  ██╔══██║██║╚██╗██║██║   ██║██║   ║
-║   ██║  ██║███████╗██████╔╝╚██████╔╝   ██║   ██║  ██║██║ ╚████║╚██████╔╝███████╗
-║   ╚═╝  ╚═╝╚══════╝╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝
+║    ███████╗ █████╗ ██╗███████╗ █████╗ ███╗   ██╗                            ║
+║    ██╔════╝██╔══██╗██║╚══███╔╝██╔══██╗████╗  ██║                            ║
+║    █████╗  ███████║██║  ███╔╝ ███████║██╔██╗ ██║                            ║
+║    ██╔══╝  ██╔══██║██║ ███╔╝  ██╔══██║██║╚██╗██║                            ║
+║    ██║     ██║  ██║██║███████╗██║  ██║██║ ╚████║                            ║
+║    ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝                            ║
 ║                                                                              ║
-║              🚀 AI DEVELOPER • PYTHON ENGINEER • PROBLEM SOLVER 🚀           ║
+║        🤖 AI/ML ENTHUSIAST • 📊 DATA ANALYTICS • 💻 IT STUDENT             ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 -->
@@ -270,9 +270,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <h4>🗄️ Databases</h4>
 <p>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" alt="MongoDB" title="MongoDB"/></a>
-  
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" title="MySQL"/></a>
-
   <a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" alt="Firebase" title="Firebase"/></a>
   <a href="https://www.sqlite.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/></a>
 </p>
@@ -281,7 +279,6 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <h4>🔧 Tools & Platforms</h4>
 <p>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/></a>
-  
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/></a>
 
 </p>
