@@ -160,14 +160,19 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <div align="center">
   
   <!-- GitHub Stats + Custom Streak in ONE ROW -->
-  <a href="https://github.com/Faizannkazi">
-    <img height="195em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faizannkazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Faizannkazi">
-    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com?user=Faizannkazi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-  </a>
-  
+<div align="center">
+
+<a href="https://github.com/Faizannkazi">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Faizannkazi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=764ba2&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/Faizannkazi">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Faizannkazi&theme=tokyonight&hide_border=true&background=0D1117" />
+</a>
+
+</div>
   <br/><br/>
   
   <!-- 📊 REAL-TIME LANGUAGE USAGE WITH PROGRESS BARS -->
