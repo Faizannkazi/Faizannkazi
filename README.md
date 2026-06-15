@@ -165,7 +165,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
   </a>
   &nbsp;
   <a href="https://github.com/Faizannkazi">
-    <img height="195em" src="streak.svg" alt="GitHub Streak"/>
+    <img height="195em" src="https://github-readme-streak-stats.herokuapp.com?user=Faizannkazi&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
   </a>
   
   <br/><br/>
