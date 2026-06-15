@@ -248,7 +248,7 @@ life_philosophy: "Code is poetry. AI is the canvas."
 <!-- 🤖 AI & MACHINE LEARNING -->
 <h4>🤖 AI & Machine Learning</h4>
 <p>
-  <a href="https://pandas.pydata.org/" target="_blank"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pandas&theme=dark" alt="Pandas" title="Pandas"/></a></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas"/></a>
   <a href="https://numpy.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy"/></a>
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" alt="Scikit-learn" title="Scikit-learn"/></a>
 </p>
